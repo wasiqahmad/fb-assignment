@@ -23,21 +23,22 @@ section{
     padding: 7px 5px 7px 10px;
     font-size: 22px;
     margin: 7px 5px;
-    border-color: rgb(241, 241, 241);
-    background-color: rgb(241, 238, 238);
+    /* border-color: rgb(241, 241, 241); */
+    background-color:rgb(246,245,250);
 border-radius: 5px;
-border-style: groove;
+/* border-style: groove; */
 }
+
 .input2{
     font-size:22px ;
     width: 566px;
-    background-color: rgb(241, 238, 238);
+    background-color: rgb(246,245,250);
     padding: 7px 5px 7px 10px;
     margin: 7px 5px;
     border-radius: 5px;
-    border-style: groove;
+    /* border-style: groove; */
     /* border-style: solid; */
-border-color: rgb(241, 241, 241);
+/* border-color: rgb(241, 241, 241); */
     /* padding: 7px 30px  7px 10px; */
 }
 .parag{
@@ -72,5 +73,5 @@ a{
     text-align: center;
     margin-left: 200px;
 border-radius: 5px;
-    background-color: green;
+    background-color: rgb(0,103,1);
 }
