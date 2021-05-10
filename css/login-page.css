@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(209, 203, 191) !important;
+    background-color:rgb(242,241,246) !important;
 }
 .section1{
     /* float: left; */
@@ -20,7 +20,7 @@ width: 300px !important;
 }
 .section2{
 width: 400px !important;
-background-color: white !important;
+background-color: white!important;
 position: relative !important;
 left: 600px !important;
 top: -190px !important;
